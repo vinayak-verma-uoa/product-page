@@ -28,7 +28,7 @@ export default function Home() {
     <ThemeProvider theme={theme}>
       <Typography variant="h3">Responsive h3</Typography>
     </ThemeProvider>
-      <Grid />
+      <Grid rowSpacing={2} alignTitle="center"/>
     </div>
     </>
   );
