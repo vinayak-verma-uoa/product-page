@@ -48,7 +48,7 @@ function NewsList(props) {
               <>
               <Button 
                 onClick={props.onClick}>
-                View Source
+                View SRC
               </Button>
               <Button variant="outlined" onClick={handleToggle}>Show backdrop</Button>
               <Backdrop
